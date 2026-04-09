@@ -13,24 +13,25 @@
 
 ## 👩‍💻 About Me
 
-I’m a 3rd-year student majoring in Management Information Systems, currently learning and practicing Manual Testing.
+I am a third-year Management Information Systems student with a focus on Manual Testing. I have a basic understanding of software testing, test case design, and system requirements, and I am currently practicing testing through personal projects.
 
 ---
 
 ## 🛠 Skills
 
-* Manual Testing (basic)
-* Test Case Writing
-* Bug Reporting
-* SQL (basic)
+* Manual Testing fundamentals (SDLC, STLC)
+* Test case design and basic test scenario creation
+* Bug reporting and basic defect tracking
+* Basic SQL for data validation
+* Basic understanding of system requirements (SRS) and user flows
 
 ---
 
 ## 📂 Projects
 
-* 🧪 [tiki-manual-testing](https://github.com/PhamLinh20/tiki-manual-testing)
-* 🌐 [iheal-web-project](https://github.com/PhamLinh20/iheal-web-project)
-* 🗄️ [pharmacy-database-sql](https://github.com/PhamLinh20/pharmacy-database-sql)
+* 🧪 [Tiki Website – Manual Testing Practice  ](https://github.com/PhamLinh20/tiki-manual-testing)
+* 🌐 [iHeal – System Design & Requirements ](https://github.com/PhamLinh20/iheal-web-project)
+* 🗄️ [Pharmacy Management System – Database Design ](https://github.com/PhamLinh20/pharmacy-database-sql)
 
 
 ---
