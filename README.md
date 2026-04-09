@@ -1,15 +1,19 @@
 <h1 align="center">Hi, I'm Linh 💙</h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/phamlinh20) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:linhptn20@gmail.com) 
-
+<p align="center">
+  <a href="https://linkedin.com/in/phamlinh20">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:linhptn20@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## 👩‍💻 About Me
 
-* 3rd-year student majoring in Management Information Systems
-* Currently learning Manual Testing through courses and hands-on practice
-* Interested in software quality and bug detection
+I’m a 3rd-year student majoring in Management Information Systems, currently learning and practicing Manual Testing.
 
 ---
 
