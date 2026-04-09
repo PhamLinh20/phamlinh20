@@ -13,7 +13,7 @@
 
 ## 👩‍💻 About Me
 
-I am a third-year Management Information Systems student with a focus on Manual Testing. I have a basic understanding of software testing, test case design, and system requirements, and I am currently practicing testing through personal projects.
+I am a third-year Management Information Systems student with a focus on Manual Testing. I have a basic understanding of software testing, test case design, and system requirements.
 
 ---
 
